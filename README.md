@@ -86,7 +86,7 @@ It is evident that after writing unit tests for object and caalculations, the ga
 
 &nbsp;
 ### *Before writing Unit Tests - Object Test Coverage*
-![](images/beforeObject.PNG)
+![](https://github.com/diyarenny/guide-for-best-practices-CA2/blob/master/Images/afterCalculations.PNG) 
 
 &nbsp;
 ### *After writing Unit Tests - Object Test Coverage* 
