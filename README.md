@@ -80,7 +80,7 @@ For example, method and unit test created for calculating the average a Rubric c
 Test coverage is a metric in Software Testing that measures the amount of testing performed by a set of test. 
 
 
-The test suite I have used to run my unit tests in this project is JUnit 5 and the code coverage tool I have used is EclEmma. EclEmma is a free Java code coverage tool for Eclipse that brings code coverage analysis directly into the Eclipse workbench. Code coverage is a measurement of how many lines/blocks/arcs of your code are executed while the automated tests are running and so helps you to identify the untested parts of your code.
+The test suite I have used to run my unit tests in this project is JUnit 5 and the code coverage tool I have used is EclEmma. EclEmma is a free Java code coverage tool for Eclipse that brings code coverage analysis directly into the Eclipse workbench. Code coverage is a measurement of how many lines/blocks/arcs of your code are executed while the automated tests are running and so helps you to identify the untested parts of your code. To find out the code coverage of a java class I simply right clicked on the class and select "Run As" and then "JUnit Test", making sure EclEmma is installed from Eclipse Marketplace.
 
 It is evident that after writing unit tests for object and caalculations, the gap closes. The gap was visibile before unit tests.
 
@@ -99,6 +99,8 @@ It is evident that after writing unit tests for object and caalculations, the ga
 &nbsp;
 ### *After writing Unit Tests - Calculations Test Coverage* 
 ![](images/afterCalculations.PNG)
+
+
 
 
 
