@@ -39,7 +39,6 @@ class RubricTest {
 		studentGradeList.add(new StudentGrade(new Student("Jouhara2"), gradeList));
 		Rubric rubric = new Rubric("Exam", criterionList, studentGradeList);
 		assertEquals(2, rubricController.maximumScoreRubric(rubric));
-
 	}
 
 	@Test
@@ -56,7 +55,6 @@ class RubricTest {
 		studentGradeList.add(new StudentGrade(new Student("Jouhara3"), gradeList));
 		Rubric rubric = new Rubric("Exam", criterionList, studentGradeList);
 		assertEquals(1, rubricController.minimumScoreRubric(rubric));
-
 	}
 
 	@Test
