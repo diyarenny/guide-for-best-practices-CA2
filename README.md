@@ -12,12 +12,15 @@ The following is a well-detailed sprint backlog for student grade calculator:
 
 | Priority | Backlog | Owner | Estimate (Hours) | Status |
 | ------ | ----------- |------ | ------- |------- |
-| 1   | Understanding requirements. | Diya Renny | 0.5 | Completed |
-| 2 | Writing object classes. |Diya Renny | 3 | Completed |
-| 3    | Writing main class.|Diya Renny | 5 | Completed |
-| 4    | Planning and writing unit tests.|Diya Renny | 4 | Completed |
-| 5    | Test coverage.| Diya Renny | 2 | Completed |
-| 6    | Analysing results. | Diya Renny | 1 | Completed |
+| 1   | Understanding Requirements | Diya Renny | 0.5 | Completed |
+| 2 | Writing Object Classes |Diya Renny | 3 | Completed |
+| 3    | Writing Main Class|Diya Renny | 5 | Completed |
+| 4    | Planning and Writing Unit Tests|Diya Renny | 4 | Completed |
+| 5   | Test Driven Development | Diya Renny | 1 | Completed |
+| 6    | Test Coverage Metric| Diya Renny | 2 | Completed |
+| 7    | Analysing Results | Diya Renny | 1 | Completed |
+| 8   | Team Version Control | Diya Renny | 1 | Completed |
+| 9   | Code Review Check List | Diya Renny | 1 | Completed |
 
 &nbsp;
 ### How to choose estimates :
