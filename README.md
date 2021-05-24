@@ -100,6 +100,44 @@ It is evident that after writing unit tests for object and caalculations, the ga
 ### *After writing Unit Tests - Calculations Test Coverage* 
 ![](https://github.com/diyarenny/guide-for-best-practices-CA2/blob/master/Images/afterCalculations.PNG)
 
+&nbsp;
+## Team Version Control
+GitFlow is a branching model that can help you decide what types of branches to create and how they should be merged. I used this workflow by splitting up the sprint tasks into different branches. Rather than just one branch, I made two: a main branch and a develop branch. Every other feature branch is then separated from develop, and once finished, it is integrated back in to the develop branch.
+
+When conducting this project, I followed a Git flow methodology and created the following branches :
+
+* master
+* develop 
+* code-main
+* code-review-checklist
+* sprint-backlog
+* team-version-control
+* test-coverage-metric
+* unit-testing-test-driven
+
+&nbsp;
+### *The overall flow of Gitflow is: -*
+1. A develop branch is created from master.
+2. A release branch is created from develop.
+3. Feature branches are created from develop.
+4. When a feature is complete it is merged into the develop branch.
+5. When the release branch is done it is merged into develop and master.
+
+&nbsp;
+### *Advantages of the Gitflow Process: -*
+ - The simplicity of the underlying model makes git-flow easy to comprehend, which ensures maximum productivity in a smaller time-frame.
+
+ - Git-flow provides a set of consistent commands that follows a systematic pattern making it easier implement. Similar pattern for all the three categories of branches - feature, release and hot-fix, ensure minimal faux-pas as far as development or dev-operations are concerned.
+
+ - Git-flow makes itself easily adaptable at any stage of project development lifecycle, as it does not force any pre-requisites.
+
+ - Git-flow ensures a clean and decipherable state of branches at any given moment in the project’s life-cycle.
+
+
+ 
+
+
+
 
 
 
