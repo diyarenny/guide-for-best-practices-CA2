@@ -127,7 +127,7 @@ When conducting this project, I followed a Git flow methodology and created the 
 ### *Advantages of the Gitflow Process: -*
  - The simplicity of the underlying model makes git-flow easy to comprehend, which ensures maximum productivity in a smaller time-frame.
 
- - Git-flow provides a set of consistent commands that follows a systematic pattern making it easier implement. Similar pattern for all the three categories of branches - feature, release and hot-fix, ensure minimal faux-pas as far as development or dev-operations are concerned.
+ - Git-flow provides a set of consistent commands that follows a systematic pattern making it easier implement. 
 
  - Git-flow makes itself easily adaptable at any stage of project development lifecycle, as it does not force any pre-requisites.
 
