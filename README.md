@@ -1,3 +1,4 @@
+
 # Scrum sprint backlog and task estimation
 
 ---
@@ -99,6 +100,27 @@ It is evident that after writing unit tests for object and caalculations, the ga
 ### *After writing Unit Tests - Calculations Test Coverage* 
 ![](https://github.com/diyarenny/guide-for-best-practices-CA2/blob/master/Images/afterCalculations.PNG)
 
+&nbsp;
+## Team Version Control
+GitFlow is a branching model that helps dictate what kinds of branches to set up and how they are merged. In this prject I carefully followed the Git flow approach and I used this workflow by dividing the sprint tasks into separate branches.
+
+&nbsp;
+### Branches in the Project :
+- team-version-control
+- test-coverage-metric
+- unit-testing-test-driven
+- code-main
+- sprint-backlog
+
+
+Rather than one branch, I made multiple branches and when each task of a branch s completed it is then merged together. These multiple feature branches enable more efficient collaborative work by allowing for every developer to have their own branch and not have to stress regarding code conflicts until they need to merge.
+
+&nbsp;
+### Advantages of following Gitflow Process :
+* Git-flow provides a set of consistent commands that follows a systematic pattern making it easier implement.
+* Git-flow ensures a clean and decipherable state of branches at any given moment in the project’s life-cycle.
+* Git-flow makes itself easily adaptable at any stage of project development lifecycle, as it does not force any pre-requisites.
+* Parallel development. GitFlow makes parallel development very easy, by isolating new development from finished work.
 
 &nbsp;
 ## Code Review Checklist
