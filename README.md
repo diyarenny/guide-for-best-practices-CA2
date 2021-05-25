@@ -104,29 +104,30 @@ It is evident that after writing unit tests for object and caalculations, the ga
 ## Team Version Control
 GitFlow is a branching model that helps dictate what kinds of branches to set up and how they are merged. In this prject I carefully followed the Git flow approach and I used this workflow by dividing the sprint tasks into separate branches.
 
-&nbsp;
+
 ### Branches in the Project :
 - team-version-control
 - test-coverage-metric
 - unit-testing-test-driven
 - code-main
 - sprint-backlog
+- code-review-checklist
 
 
 Rather than one branch, I made multiple branches and when each task of a branch s completed it is then merged together. These multiple feature branches enable more efficient collaborative work by allowing for every developer to have their own branch and not have to stress regarding code conflicts until they need to merge.
 
-&nbsp;
+
 ### Advantages of following Gitflow Process :
 * Git-flow provides a set of consistent commands that follows a systematic pattern making it easier implement.
 * Git-flow ensures a clean and decipherable state of branches at any given moment in the project’s life-cycle.
 * Git-flow makes itself easily adaptable at any stage of project development lifecycle, as it does not force any pre-requisites.
 * Parallel development. GitFlow makes parallel development very easy, by isolating new development from finished work.
 
-&nbsp;
+
 ## Code Review Checklist
 A code review is a method of enabling other developers on your team to look over your code and ensure that it complies with their rules and guidelines. Following the implementation of functionality and the creation of a pull request, the peers performing the code review may go through a checklist of items to ensure that all is ideal.
 
-&nbsp;
+
 ### *Code Review Checklist :* 
 
 - Is the code following the coding standards and guidelines? 
@@ -137,7 +138,7 @@ A code review is a method of enabling other developers on your team to look over
 - Are there a better solution to the code or can the performance be improved?
 - Reusability, is there methods/functions that can be re-used.
 
-&nbsp;
+
 ### *Example :* 
 When opening a pull request and reviewing the pull request, I have carefully applied and evaluated the above checklist.
 This [pull request](https://github.com/diyarenny/guide-for-best-practices-CA2/pull/2) is an example of a successful code review that meets all of the code review checklist pointers. 
