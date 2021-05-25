@@ -123,7 +123,7 @@ Rather than one branch, I made multiple branches and when each task of a branch 
 * Git-flow makes itself easily adaptable at any stage of project development lifecycle, as it does not force any pre-requisites.
 * Parallel development. GitFlow makes parallel development very easy, by isolating new development from finished work.
 
-
+&nbsp;
 ## Code Review Checklist
 A code review is a method of enabling other developers on your team to look over your code and ensure that it complies with their rules and guidelines. Following the implementation of functionality and the creation of a pull request, the peers performing the code review may go through a checklist of items to ensure that all is ideal.
 
